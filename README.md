@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Oluwatomisin780
 - 👀 I’m interested in backend web development and solidity
 - 🌱 I’m currently learning sol...
-- 💞️ I’m looking to collaborate on project
+- 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me tomisinoyediran@gmail.com
 
 <!---
