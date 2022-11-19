@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Oluwatomisin780
 - 👀 I’m interested in backend web development(python,javascript/typescript and solidity)
-- 🌱 I’m currently learning python and solidity
+- 🌱 I’m currently learning python.
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me tomisinoyediran@gmail.com
 
