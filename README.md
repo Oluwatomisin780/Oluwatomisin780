@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Oluwatomisin780
-- 👀 I’m interested in backend web development(python,javascript/typescript)
+- 👀 I’m interested in backend web development(python,javascript/typescript) and Devops.
 - 🌱 I’m currently learning python and Devops.
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me tomisinoyediran@gmail.com
