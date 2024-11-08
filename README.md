@@ -1,7 +1,7 @@
 
 - 👋 Hi, I’m @Oluwatomisin780
-- 👀 I’m interested in backend web development(golang,javascript/typescript) and Devops.
-- 🌱 I’m currently learning golang and Devops.
+- 👀 I’m interested in backend web development(javascript/typescript) 
+- 🌱 I’m currently learning ......
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me tomisinoyediran@gmail.com
 
