@@ -1,8 +1,8 @@
 
 - 👋 Hi, I’m @Oluwatomisin780
-- 👀 I’m interested in backend web development(javascript/typescript) 
-- 🌱 I’m currently learning ......
-- 💞️ I’m looking to collaborate on projects
+- 👀 I’m interested in fullstack web development(javascript/typescript) 
+- 🌱 I’m currently learning ........
+- 💞️ I’m looking forward to collaborate on projects
 - 📫 How to reach me tomisinoyediran@gmail.com
 
 <!---
